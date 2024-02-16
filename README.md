@@ -23,7 +23,7 @@ git clone https://github.com/VeraTaras/Sorting.git
 ## Usage
 
 1. **Generation:** Specify the array and step size, click on the "Generate" button to randomly generate the array.
-2. **Sorting:** Click on the "sort" button.
+2. **Sorting:** Click on the "Sort" button.
 3. **Analyses:** Go to the second tab and see the sorting analysis as table and timetable.
 
 ## Screenshots
