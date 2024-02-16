@@ -27,6 +27,9 @@ git clone https://github.com/VeraTaras/Sorting.git
 3. **Analyses:** Go to the second tab and see the sorting analysis as table and timetable.
 
 ## Screenshots
-
-![Screenshot1](https://github.com/VeraTaras/Sorting/blob/master/SortingProject.png)
-![Screenshot2](https://github.com/VeraTaras/Sorting/blob/master/project4.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/VeraTaras/Sorting/blob/master/SortingProject.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="https://github.com/VeraTaras/Sorting/blob/master/project4.png" alt="Screenshot 2" width="400"/></td>
+  </tr>
+</table>
