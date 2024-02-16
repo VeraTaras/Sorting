@@ -28,5 +28,5 @@ git clone https://github.com/VeraTaras/Sorting.git
 
 ## Screenshots
 
-![Screenshot1](https://github.com/VeraTaras/Graphics/blob/master/project3.png)
+![Screenshot1](https://github.com/VeraTaras/Sorting/blob/master/SortingProject.png)
 ![Screenshot2](https://github.com/VeraTaras/Sorting/blob/master/project4.png)
