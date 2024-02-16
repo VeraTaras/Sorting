@@ -17,7 +17,7 @@ This project compares sorting algorithms and is implemented in C# using Windows 
 git clone https://github.com/VeraTaras/Sorting.git
 ```
 2. Open the project in Visual Studio.
-3. Open the solution file (`Matrix.sln`) in Visual Studio.
+3. Open the solution file (`Sortowanie.sln`) in Visual Studio.
 4. Build and run the application.
 
 ## Usage
